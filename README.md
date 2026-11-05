@@ -25,4 +25,4 @@ The **[Xtracsys orchestration playbook](https://github.com/Xtracsys/Xtracsys/blo
 
 ## Contact
 
-For project and security inquiries: **opensource@xtracsys.com**.
+For project and security inquiries: **josh@xtracsys.com**.
